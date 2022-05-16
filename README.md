@@ -13,6 +13,7 @@ when (fn,vn) is an eigenpair of the associated integral operator and K(x,y) , Ke
 References:
 
 [1] Cont, R., da Fonseca, J., Dynamics of implied volatility surfaces, Quantitative Finance, 2, 2002, 45-60.
+
 [2] F. Guillaume, W. Schoutens, Calibration risk: Illustrating the impact of calibration risk under the Heston model, Rev. Deriv.
 Res. (2012) 15:57 - 79.
 
